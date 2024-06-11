@@ -17,6 +17,7 @@ API TMDB pour obtenir les détails sur les films (affiches, synopsis...)
 
 Streamlit et HTML / CSS pour l'application et la personnalisation de l'apparence
 
+
 Equipe : Romain Lagand / Guillaume Robic / Guillaume Lorillier
 
 ----------------------------------------------------------------------------------------------------------------------------------------
