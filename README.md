@@ -9,7 +9,8 @@ système de recommandation avec une zone de saisie de nom de film pour l’utili
 Cette application sera mise à disposition des clients du cinéma afin de leur proposer un
 service supplémentaire, en ligne, en plus du cinéma classique.
 
-Outils utilisés : Python / Numpy / Pandas pour l'analyse et la manipulation des données
+## Outils utilisés : 
+Python / Numpy / Pandas pour l'analyse et la manipulation des données
 
 Scikit-learn pour le machine learning
 
