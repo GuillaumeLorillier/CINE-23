@@ -1,6 +1,6 @@
 # Ciné-23
 
-Projet 2 : Wild Code School 
+## Projet 2 : Wild Code School 
 
 Objectif : Créer un moteur de recommandation de films
 
@@ -19,7 +19,8 @@ API TMDB pour obtenir les détails sur les films (affiches, synopsis...)
 Streamlit et HTML / CSS pour l'application et la personnalisation de l'apparence
 
 
-Equipe : Romain Lagand / Guillaume Robic / Guillaume Lorillier
+## Equipe : 
+Romain Lagand / Guillaume Robic / Guillaume Lorillier
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
