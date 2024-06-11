@@ -2,7 +2,8 @@
 
 ## Projet 2 : Wild Code School 
 
-Objectif : Créer un moteur de recommandation de films
+## Objectif : 
+Créer un moteur de recommandation de films
 
 Avoir une application avec d’une part des KPI et d’autre part le
 système de recommandation avec une zone de saisie de nom de film pour l’utilisateur.
