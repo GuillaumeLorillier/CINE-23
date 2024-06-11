@@ -1,0 +1,54 @@
+/* Exemple de style CSS pour personnaliser le titre */
+h1 {
+    margin-top: -72px;  /* Ajuste la marge supérieure pour positionner le titre plus haut */
+    margin-left: 650px;
+    padding: 0;  /* Ajuste le remplissage pour éliminer les espaces supplémentaires */
+    color: #FFA421;  /* Change la couleur du texte */
+}
+
+h2 {
+    margin-bottom: 100px;
+    padding: 0;  /* Ajuste le remplissage pour éliminer les espaces supplémentaires */
+    color: #FFA421;  /* Change la couleur du texte */
+    font-size: 24px;
+}
+h4 {
+    margin-bottom: 85px;
+    padding: 0;  /* Ajuste le remplissage pour éliminer les espaces supplémentaires */
+    color: #f8f6f3;  /* Change la couleur du texte */
+    font-size: 16px;
+}
+h5 {
+    margin-bottom: -20px;
+    padding: 0;  /* Ajuste le remplissage pour éliminer les espaces supplémentaires */
+    color: #1BC7D8;  /* Change la couleur du texte */
+    font-size: 16px;
+}
+
+
+/* Style pour agrandir l'affiche de film lors du survol */
+/*img:hover {
+/*    transform: scale(1.2); /* Ajuste l'augmentation selon vos préférences */
+/*    transition: transform 0.2s ease-in-out; /* Ajoute une transition en douceur */
+/*}
+
+/* Style pour arrondir les angles des affiches de films */
+img {
+    border-radius: 15px; /* Ajustez la valeur pour plus ou moins d'arrondi */
+}
+.no-scale:hover {
+    transform: scale(1) !important; /* Annuler la transformation de mise à l'échelle au survol */
+}
+/* Style pour centrer le texte */
+.center-text {
+    text-align: center;
+}
+/* Style pour ajouter un contour blanc lors du survol */
+img:hover {
+    border: 2px solid white; /* Ajoute un contour blanc de 2 pixels */
+    transition: border 0.2s ease-in-out; /* Ajoute une transition en douceur */
+}
+.film-title {
+    font-size: 16px; /* ajustez la taille selon vos préférences */
+    text-align: center;
+}
