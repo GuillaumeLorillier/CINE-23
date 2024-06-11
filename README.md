@@ -1,4 +1,4 @@
-# Cin-23
+# Ciné-23
 
 Projet 2 : Wild Code School 
 
